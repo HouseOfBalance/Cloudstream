@@ -3,6 +3,6 @@
     "description": "",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
+      "https://raw.githubusercontent.com/HouseOfBalance/Cloudstream/refs/heads/main/plugins.json"
     ]
 }
