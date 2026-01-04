@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese Movie",
+    "description": "",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
+    ]
+}
