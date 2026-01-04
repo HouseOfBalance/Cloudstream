@@ -15,15 +15,15 @@
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
+        "repositoryUrl": "",
         "fileSize": 46025,
         "status": 1,
         "authors": ["anhdaden"],
         "tvTypes": ["Anime", "TvSeries", "Movie"],
         "version": 12,
-        "internalName": "OPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
-        "name": "OPhimProvider"
+        "internalName": "AnimeVietsubProvider",
+        "url": "https://github.com/HouseOfBalance/Cloudstream/raw/refs/heads/main/AnimeVietsubProvider.cs3",
+        "name": "AnimeVietsub"
     },
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
@@ -34,9 +34,9 @@
         "authors": ["anhdaden"],
         "tvTypes": ["Anime", "TvSeries", "Movie"],
         "version": 17,
-        "internalName": "NguonCProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
-        "name": "NguonCProvider"
+        "internalName": "HHkungfu",
+        "url": "https://github.com/HouseOfBalance/Cloudstream/raw/refs/heads/main/HHkungfuProvider.cs3",
+        "name": "HHKungFu"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.sbs&sz=%size%",
@@ -47,8 +47,8 @@
         "authors": ["anhdaden"],
         "tvTypes": ["Anime"],
         "version": 12,
-        "internalName": "AnimeHayProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
-        "name": "AnimeHayProvider"
+        "internalName": "YanHH3D",
+        "url": "https://github.com/HouseOfBalance/Cloudstream/raw/refs/heads/main/YanHH3DProvider.cs3",
+        "name": "YanHH3D"
     }
 ]
